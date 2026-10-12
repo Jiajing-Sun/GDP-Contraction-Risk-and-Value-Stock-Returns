@@ -1,0 +1,2 @@
+"family","label","outcome","focal","n","start","end","coef","se_hac","ci95_low","ci95_high","ci_components","ci95_set","p_dwb","p_hac","r2","max_leverage","lags","bw","controls","p_rw_family"
+"bin_transition_sensitivity","exclude_US_bin_transition_rounds","all_VW","matched_x",99,"1992Q2","2025Q4",8.52302658012869,2.90927457197585,-5.73580204838788,24.08442323539,1,"[-5.735802, 24.084423]",0.1288,0.00339392658440737,0.0577753949223877,0.797627118736607,4,4,"matched_mu",0.1288

@@ -1,0 +1,252 @@
+"family","label","coefficient_before","coefficient_R","p_before","p_R","ci_low_difference","ci_high_difference"
+"measurement_family","Frozen baseline",3.86409361871971,3.86409361871971,0.0571,0.0571,0,0
+"measurement_family","Reconstructed aggregate",3.86370315647223,3.86370315647223,0.0571,0.0571,0,0
+"measurement_family","Paired revision; original mean control",3.18931050073568,3.18931050073568,0.0814,0.0814,0,0
+"measurement_family","Paired revision and paired mean",3.32980049132755,3.32980049132755,0.1031,0.1031,0,0
+"measurement_family","Paired; nonlinear center",7.76700933054296,7.76700933054296,0.0126,0.0126,0,0
+"measurement_family","Paired; within-forecaster width",2.2002321271462,2.2002321271462,0.3835,0.3835,0,0
+"measurement_family","Paired; disagreement",-0.028110036606308,-0.028110036606308,0.9907,0.9907,0,0
+"measurement_family","Paired; width and disagreement",0.0138743515077508,0.0138743515077508,0.9946,0.9946,0,0
+"measurement_family","Paired holding composition fixed",2.67800925783594,2.67800925783594,0.0786,0.0786,0,0
+"measurement_family","Composition holding paired revision fixed",13.5252805858073,13.5252805858073,0.1065,0.1065,0,0
+"measurement_family","Paired; excluding bin transitions",2.01321164747053,2.01321164747053,0.4543,0.4543,0,0
+"financial_controls_family","Full sample baseline",3.86409361871971,3.86409361871971,0.0571,0.0571,0,0
+"financial_controls_family","Quarter-end market and VIX",4.80852873681998,4.80852873681998,0.0612,0.0612,0,0
+"financial_controls_family","Quarter-end market VIX and nominal yield",4.45367517581032,4.45367517581032,0.0617,0.0617,0,0
+"financial_controls_family","Paired with quarter-end conditions",3.69770914729319,3.69770914729319,0.0633,0.0633,0,0
+"financial_controls_family","Common 59 baseline",4.11040559137644,4.11040559137644,0.0951,0.0951,0,0
+"financial_controls_family","Common 59 broad lagged controls",2.10003790471385,2.10003790471385,0.5099,0.5099,0,0
+"financial_controls_family","Common 59 paired baseline",4.35653236238534,4.35653236238534,0.0734,0.0734,0,0
+"financial_controls_family","Common 59 paired broad controls",2.24075556896013,2.24075556896013,0.3895,0.3895,0,0
+"event_exclusion_family","All origins original",3.86409361871971,3.86409361871971,0.0571,0.0571,0,0
+"event_exclusion_family","All origins paired",3.32980049132755,3.32980049132755,0.1031,0.1031,0,0
+"event_exclusion_family","Excluding GFC original",5.77729821265879,5.77729821265879,0.2796,0.2796,0,0
+"event_exclusion_family","Excluding GFC paired",2.56033478739314,2.56033478739314,0.6224,0.6224,0,0
+"event_exclusion_family","Excluding pandemic original",3.11262762234645,3.11262762234645,0.1329,0.1329,0,0
+"event_exclusion_family","Excluding pandemic paired",2.03535253944284,2.03535253944284,0.4369,0.4369,0,0
+"event_exclusion_family","Excluding both events original",1.82448060851378,1.82448060851378,0.7882,0.7882,0,0
+"event_exclusion_family","Excluding both events paired",-3.12055213559937,-3.12055213559937,0.6177,0.6177,0,0
+"timing_original_family","pre",0.0256591853045381,0.0256591853045381,0.9949,0.9949,0,0
+"timing_original_family","announcement",-0.303051522012721,-0.303051522012721,0.2477,0.2477,0,0
+"timing_original_family","post_2_21",0.00731196518117267,0.00731196518117267,0.9965,0.9965,0,0
+"timing_original_family","post_22_63",4.07865989902762,4.07865989902762,0.0649,0.0649,0,0
+"timing_original_family","post_64_126",-1.73734422201717,-1.73734422201717,0.6573,0.6573,0,0
+"timing_original_family","post_127_252",-9.20850588966989,-9.20850588966989,0.1888,0.1888,0,0
+"timing_paired_family","pre",-0.149616193826879,-0.149616193826879,0.9774,0.9774,0,0
+"timing_paired_family","announcement",-0.282509653017298,-0.282509653017298,0.2977,0.2977,0,0
+"timing_paired_family","post_2_21",0.0274339856215972,0.0274339856215972,0.9868,0.9868,0,0
+"timing_paired_family","post_22_63",3.56852440510232,3.56852440510232,0.1204,0.1204,0,0
+"timing_paired_family","post_64_126",-1.98398247116759,-1.98398247116759,0.5221,0.5221,0,0
+"timing_paired_family","post_127_252",-10.680190893822,-10.680190893822,0.1698,0.1698,0,0
+"timing_legs_family","G pre",-8.51770380591647,-8.51770380591647,0.1066,0.1066,0,0
+"timing_legs_family","G announcement",-0.218986484327295,-0.218986484327295,0.8323,0.8323,0,0
+"timing_legs_family","G post_2_21",3.70853324813192,3.70853324813192,0.076,0.076,0,0
+"timing_legs_family","G post_22_63",0.331288082640688,0.331288082640688,0.8157,0.8157,0,0
+"timing_legs_family","G post_64_126",3.79053894361568,3.79053894361568,0.4768,0.4768,0,0
+"timing_legs_family","G post_127_252",3.2265940055531,3.2265940055531,0.5084,0.5084,0,0
+"timing_legs_family","V pre",-8.543362991221,-8.543362991221,0.298,0.298,0,0
+"timing_legs_family","V announcement",0.0840650376854275,0.0840650376854275,0.9599,0.9599,0,0
+"timing_legs_family","V post_2_21",3.70122128295074,3.70122128295074,0.0409,0.0409,0,0
+"timing_legs_family","V post_22_63",-3.74737181638693,-3.74737181638693,0.3971,0.3971,0,0
+"timing_legs_family","V post_64_126",5.52788316563286,5.52788316563286,0.6799,0.6799,0,0
+"timing_legs_family","V post_127_252",12.435099895223,12.435099895223,0.1667,0.1667,0,0
+"timing_precondition_family","Post 22-63, control pre-release spread",4.07811415024299,4.07811415024299,0.0641,0.0641,0,0
+"timing_precondition_family","Paired post 22-63, control pre-release spread",3.57145250082277,3.57145250082277,0.1183,0.1183,0,0
+"characteristic_OP_family","GV_OP1",7.90969709119237,7.90969709119237,0.0862,0.0862,0,0
+"characteristic_OP_family","GV_OP2",8.21748918809903,8.21748918809903,0.172,0.172,0,0
+"characteristic_OP_family","GV_OP3",5.44845639453574,5.44845639453574,0.0361,0.0361,0,0
+"characteristic_OP_family","GV_OP4",4.3104741905152,4.3104741905152,0.0725,0.0725,0,0
+"characteristic_OP_family","GV_OP5",-0.47225444133409,-0.47225444133409,0.8091,0.8091,0,0
+"characteristic_OP_family","GV_OP_low_minus_high",8.38195153252647,8.38195153252647,0.0531,0.0531,0,0
+"characteristic_OP_paired_family","GV_OP1",6.58476358848942,6.58476358848942,0.1039,0.1039,0,0
+"characteristic_OP_paired_family","GV_OP2",8.00481176832538,8.00481176832538,0.204,0.204,0,0
+"characteristic_OP_paired_family","GV_OP3",4.50607027346496,4.50607027346496,0.1209,0.1209,0,0
+"characteristic_OP_paired_family","GV_OP4",4.21219961585095,4.21219961585095,0.1352,0.1352,0,0
+"characteristic_OP_paired_family","GV_OP5",-1.20325964472998,-1.20325964472998,0.4955,0.4955,0,0
+"characteristic_OP_paired_family","GV_OP_low_minus_high",7.78802323321941,7.78802323321941,0.0541,0.0541,0,0
+"characteristic_INV_family","GV_INV1",4.56630058185864,4.56630058185864,0.1342,0.1342,0,0
+"characteristic_INV_family","GV_INV2",3.22025589124679,3.22025589124679,0.1339,0.1339,0,0
+"characteristic_INV_family","GV_INV3",4.13957117523371,4.13957117523371,0.0909,0.0909,0,0
+"characteristic_INV_family","GV_INV4",3.45169844809113,3.45169844809113,0.1593,0.1593,0,0
+"characteristic_INV_family","GV_INV5",6.62403651772839,6.62403651772839,0.0448,0.0448,0,0
+"characteristic_INV_family","GV_INV_low_minus_high",-2.05773593586974,-2.05773593586974,0.5417,0.5417,0,0
+"characteristic_INV_paired_family","GV_INV1",4.36788341215219,4.36788341215219,0.1475,0.1475,0,0
+"characteristic_INV_paired_family","GV_INV2",2.95862048252308,2.95862048252308,0.1596,0.1596,0,0
+"characteristic_INV_paired_family","GV_INV3",3.72452248545059,3.72452248545059,0.1094,0.1094,0,0
+"characteristic_INV_paired_family","GV_INV4",3.16872808249193,3.16872808249193,0.2133,0.2133,0,0
+"characteristic_INV_paired_family","GV_INV5",5.90709900409283,5.90709900409283,0.0755,0.0755,0,0
+"characteristic_INV_paired_family","GV_INV_low_minus_high",-1.53921559194063,-1.53921559194063,0.7031,0.7031,0,0
+"factor_attribution_family","Baseline",3.86409361871971,3.86409361871971,0.0571,0.0571,0,0
+"factor_attribution_family","MKT SMB RMW CMA realized attribution",1.14458181433368,1.14458181433368,0.1938,0.1938,0,0
+"factor_attribution_family","Including HML: construction overlap diagnostic",-0.604384265368275,-0.604384265368275,0.1792,0.1792,0,0
+"alternative_question_family","Annual downside baseline",3.86409361871971,3.86409361871971,0.0571,0.0571,0,0
+"alternative_question_family","Next-quarter downside revision",0.79857503226319,0.79857503226319,0.6252,0.6252,0,0
+"alternative_question_family","Annual conditional on near-term",5.11000573547699,5.11000573547699,0.0713,0.0713,0,0
+"alternative_question_family","Near-term conditional on annual",-1.37252209068108,-1.37252209068108,0.4682,0.4682,0,0
+"paired_BM_profile_family","BM1",-0.446850696675537,-0.446850696675537,0.8158,0.8158,0,0
+"paired_BM_profile_family","BM2",-1.02991601828725,-1.02991601828725,0.6778,0.6778,0,0
+"paired_BM_profile_family","BM3",-1.73434147927947,-1.73434147927947,0.5126,0.5126,0,0
+"paired_BM_profile_family","BM4",-3.56500320982704,-3.56500320982704,0.3471,0.3471,0,0
+"paired_BM_profile_family","BM5",-3.77665118800308,-3.77665118800308,0.236,0.236,0,0
+"paired_BM_profile_family","gradient",-0.919468817419488,-0.919468817419488,0.0932,0.0932,0,0
+"followup_distribution_family","Disagreement alone with paired mean",10.5676130074957,10.5676130074957,0.0482,0.0482,0,0
+"followup_distribution_family","Disagreement conditional on tail",10.5928004307195,10.5928004307195,0.0274,0.0274,0,0
+"followup_distribution_family","Width conditional on tail",8.38563346104631,8.38563346104631,0.1396,0.1396,0,0
+"followup_distribution_family","Disagreement conditional on tail and width",12.2726489254616,12.2726489254616,0.0443,0.0443,0,0
+"followup_profitability_family","Profitability contrast original",8.38195153252647,8.38195153252647,0.0531,0.0531,0,0
+"followup_profitability_family","Profitability contrast paired",7.78802323321941,7.78802323321941,0.0541,0.0541,0,0
+"followup_profitability_family","Profitability contrast paired plus disagreement",5.92989425002925,5.92989425002925,0.2152,0.2152,0,0
+"followup_profitability_family","Profitability contrast paired plus width and disagreement",5.97833867860631,5.97833867860631,0.2028,0.2028,0,0
+"followup_profitability_family","Profitability contrast paired plus financial conditions",7.89589233038165,7.89589233038165,0.0267,0.0267,0,0
+"followup_profitability_family","Profitability contrast excluding GFC",10.8884277036639,10.8884277036639,0.0577,0.0577,0,0
+"followup_profitability_family","Profitability contrast excluding pandemic",6.33500293419762,6.33500293419762,0.1774,0.1774,0,0
+"followup_profitability_family","Profitability contrast excluding both",7.05574208507586,7.05574208507586,0.4046,0.4046,0,0
+"followup_size_profitability_original_family","S1_GV_OP1",2.83894858413046,2.83894858413046,0.2443,0.2443,0,0
+"followup_size_profitability_original_family","S1_GV_OP4",-0.900919556040441,-0.900919556040441,0.2296,0.2296,0,0
+"followup_size_profitability_original_family","S1_weak_minus_robust",3.7398681401709,3.7398681401709,0.1984,0.1984,0,0
+"followup_size_profitability_original_family","S2_GV_OP1",7.12016341214353,7.12016341214353,0.0896,0.0896,0,0
+"followup_size_profitability_original_family","S2_GV_OP4",-5.6732322465968,-5.6732322465968,0.3744,0.3744,0,0
+"followup_size_profitability_original_family","S2_weak_minus_robust",12.7933956587403,12.7933956587403,0.0185,0.0185,0,0
+"followup_size_profitability_paired_family","S1_GV_OP1",1.98816401167773,1.98816401167773,0.5469,0.5469,0,0
+"followup_size_profitability_paired_family","S1_GV_OP4",-0.838756569202139,-0.838756569202139,0.3672,0.3672,0,0
+"followup_size_profitability_paired_family","S1_weak_minus_robust",2.82692058087987,2.82692058087987,0.4643,0.4643,0,0
+"followup_size_profitability_paired_family","S2_GV_OP1",5.84773244630905,5.84773244630905,0.1397,0.1397,0,0
+"followup_size_profitability_paired_family","S2_GV_OP4",-6.45741455082426,-6.45741455082426,0.2751,0.2751,0,0
+"followup_size_profitability_paired_family","S2_weak_minus_robust",12.3051469971333,12.3051469971333,0.027,0.027,0,0
+"europe_profitability_original","S1_GV_OP1",-0.429002376310218,-0.429002376310218,0.7502,0.7502,0,0
+"europe_profitability_original","S1_GV_OP4",1.92555827986686,1.92555827986686,0.1831,0.1831,0,0
+"europe_profitability_original","S1_contrast",-2.35456065617708,-2.35456065617708,0.0553,0.0553,0,0
+"europe_profitability_original","S2_GV_OP1",1.32569442439467,1.32569442439467,0.6152,0.6152,0,0
+"europe_profitability_original","S2_GV_OP4",3.33405237977003,3.33405237977003,0.0605,0.0605,0,0
+"europe_profitability_original","S2_contrast",-2.00835795537536,-2.00835795537536,0.2954,0.2954,0,0
+"europe_profitability_paired","S1_GV_OP1",-0.677377080024417,-0.677377080024417,0.6094,0.6094,0,0
+"europe_profitability_paired","S1_GV_OP4",1.74482942926071,1.74482942926071,0.2635,0.2635,0,0
+"europe_profitability_paired","S1_contrast",-2.42220650928512,-2.42220650928512,0.0333,0.0333,0,0
+"europe_profitability_paired","S2_GV_OP1",1.3116608025706,1.3116608025706,0.601,0.601,0,0
+"europe_profitability_paired","S2_GV_OP4",3.06848744833108,3.06848744833108,0.0423,0.0423,0,0
+"europe_profitability_paired","S2_contrast",-1.75682664576047,-1.75682664576047,0.365,0.365,0,0
+"weighting","all_VW",7.78802323321941,7.78802323321941,0.0541,0.0541,0,0
+"weighting","all_EW",7.5776541848839,7.5776541848839,0.5793,0.5793,0,0
+"weighting","small_VW",2.82692058087987,2.82692058087987,0.4643,0.4643,0,0
+"weighting","small_EW",3.16866046055108,3.16866046055108,0.7021,0.7021,0,0
+"weighting","big_VW",12.3051469971333,12.3051469971333,0.027,0.027,0,0
+"weighting","big_EW",0.997187389167528,0.997187389167528,0.6353,0.6353,0,0
+"factor_attribution","all_VW baseline",7.78802323321941,7.78802323321941,0.0541,0.0541,0,0
+"factor_attribution","all_VW realized factors without HML",7.3049465893192,7.3049465893192,0.0531,0.0531,0,0
+"factor_attribution","all_VW realized factors with HML",6.87494759287558,6.87494759287558,0.0633,0.0633,0,0
+"factor_attribution","small_VW baseline",2.82692058087987,2.82692058087987,0.4643,0.4643,0,0
+"factor_attribution","small_VW realized factors without HML",3.12455750380241,3.12455750380241,0.2702,0.2702,0,0
+"factor_attribution","small_VW realized factors with HML",1.89456231298931,1.89456231298931,0.47,0.47,0,0
+"factor_attribution","big_VW baseline",12.3051469971333,12.3051469971333,0.027,0.027,0,0
+"factor_attribution","big_VW realized factors without HML",11.4038293910973,11.4038293910973,0.0357,0.0357,0,0
+"factor_attribution","big_VW realized factors with HML",10.8061932758898,10.8061932758898,0.0467,0.0467,0,0
+"profit_expectations","Downside to next-year profit revision",-1.07912652656825,-1.07912652656825,0.5277,0.5277,0,0
+"profit_expectations","all_VW same sample baseline",7.78802323321941,7.78802323321941,0.0541,0.0541,0,0
+"profit_expectations","all_VW with profit revision",7.24593723125115,7.24593723125115,0.0578,0.0578,0,0
+"profit_expectations","all_VW conditional profit term",-0.502337759865981,-0.502337759865981,0.1465,0.1465,0,0
+"profit_expectations","small_VW same sample baseline",2.82692058087987,2.82692058087987,0.4643,0.4643,0,0
+"profit_expectations","small_VW with profit revision",2.43141161568362,2.43141161568362,0.5386,0.5386,0,0
+"profit_expectations","small_VW conditional profit term",-0.366508426453021,-0.366508426453021,0.167,0.167,0,0
+"profit_expectations","big_VW same sample baseline",12.3051469971333,12.3051469971333,0.027,0.027,0,0
+"profit_expectations","big_VW with profit revision",12.2803939089831,12.2803939089831,0.0249,0.0249,0,0
+"profit_expectations","big_VW conditional profit term",-0.0229380777330789,-0.0229380777330789,0.9501,0.9501,0,0
+"bandwidth_2","all_VW bandwidth 2",7.78802323321941,7.78802323321941,0.0621,0.0621,0,0
+"bandwidth_2","small_VW bandwidth 2",2.82692058087987,2.82692058087987,0.4514,0.4514,0,0
+"bandwidth_2","big_VW bandwidth 2",12.3051469971333,12.3051469971333,0.033,0.033,0,0
+"bandwidth_4","all_VW bandwidth 4",7.78802323321941,7.78802323321941,0.0541,0.0541,0,0
+"bandwidth_4","small_VW bandwidth 4",2.82692058087987,2.82692058087987,0.4643,0.4643,0,0
+"bandwidth_4","big_VW bandwidth 4",12.3051469971333,12.3051469971333,0.027,0.027,0,0
+"bandwidth_8","all_VW bandwidth 8",7.78802323321941,7.78802323321941,0.0525,0.0525,0,0
+"bandwidth_8","small_VW bandwidth 8",2.82692058087987,2.82692058087987,0.4762,0.4762,0,0
+"bandwidth_8","big_VW bandwidth 8",12.3051469971333,12.3051469971333,0.03,0.03,0,0
+"direct_weight_gap","all VW minus EW",0.210369048335511,0.210369048335511,0.9765,0.9765,0,0
+"direct_weight_gap","small VW minus EW",-0.341739879671208,-0.341739879671208,0.9303,0.9303,0,0
+"direct_weight_gap","big VW minus EW",11.3079596079658,11.3079596079658,0.0502,0.0502,0,0
+"weight_gap_legs","Big growth_weak VW minus EW",3.0266350986008,3.0266350986008,0.0482,0.0482,0,0
+"weight_gap_legs","Big value_weak VW minus EW",-0.868894081392,-0.868894081392,0.199,0.199,0,0
+"weight_gap_legs","Big growth_robust VW minus EW",-0.320636008769913,-0.320636008769913,0.6049,0.6049,0,0
+"weight_gap_legs","Big value_robust VW minus EW",7.09179441920307,7.09179441920307,0.2405,0.2405,0,0
+"industry_attribution","all_VW baseline",7.78802323321941,7.78802323321941,0.0541,0.0541,0,0
+"industry_attribution","all_VW all twelve realized industries",8.01940835202815,8.01940835202815,0.1198,0.1198,0,0
+"industry_attribution","big_VW baseline",12.3051469971333,12.3051469971333,0.027,0.027,0,0
+"industry_attribution","big_VW all twelve realized industries",11.8284236587202,11.8284236587202,0.0959,0.0959,0,0
+"profit_timing_short","Profitability pre",-6.54641342372547,-6.54641342372547,0.0616,0.0616,0,0
+"profit_timing_short","Profitability announcement",-0.907980174602262,-0.907980174602262,0.1745,0.1745,0,0
+"profit_timing_short","Profitability post_2_21",5.58100084088105,5.58100084088105,0.2047,0.2047,0,0
+"profit_timing_short","Profitability post_22_63",3.33348408497028,3.33348408497028,0.3457,0.3457,0,0
+"profit_timing_long","Profitability post_64_126",8.64060608858558,8.64060608858558,0.0887,0.0887,0,0
+"profit_timing_long","Profitability post_127_252",-2.60166307645071,-2.60166307645071,0.7096,0.7096,0,0
+"core_specs","baseline",7.78802323321941,7.78802323321941,0.0541,0.0541,0,0
+"core_specs","nonlinear_center",6.73611749007123,6.73611749007123,0.2662,0.2662,0,0
+"core_specs","width_disagreement",5.97833867860631,5.97833867860631,0.2028,0.2028,0,0
+"core_specs","nonlinear_width_disagreement",5.25748253898018,5.25748253898018,0.4081,0.4081,0,0
+"core_specs","survey_quarter_FE",7.70784822129134,7.70784822129134,0.049,0.049,0,0
+"crisis_windows","origin all_VW",7.05574208507586,7.05574208507586,0.4046,0.4046,0,0
+"crisis_windows","origin big_VW",6.9676811942419,6.9676811942419,0.4702,0.4702,0,0
+"crisis_windows","outcome all_VW",14.0828565872569,14.0828565872569,0.1559,0.1559,0,0
+"crisis_windows","outcome big_VW",14.4880736986452,14.4880736986452,0.1788,0.1788,0,0
+"crisis_windows","either all_VW",7.03006856908527,7.03006856908527,0.4181,0.4181,0,0
+"crisis_windows","either big_VW",7.92587270963935,7.92587270963935,0.4224,0.4224,0,0
+"style_direct_contrasts","all G",2.50327505158457,2.50327505158457,0.2331,0.2331,0,0
+"style_direct_contrasts","all V",-5.28474818163484,-5.28474818163484,0.0539,0.0539,0,0
+"style_direct_contrasts","all value_dominance",2.78147313005027,2.78147313005027,0.1126,0.1126,0,0
+"style_direct_contrasts","USsmall G",0.188021303925072,0.188021303925072,0.9253,0.9253,0,0
+"style_direct_contrasts","USsmall V",-2.6388992769548,-2.6388992769548,0.1316,0.1316,0,0
+"style_direct_contrasts","USsmall value_dominance",2.45087797302972,2.45087797302972,0.1102,0.1102,0,0
+"style_direct_contrasts","USbig G",1.69501198273639,1.69501198273639,0.377,0.377,0,0
+"style_direct_contrasts","USbig V",-10.6101350143969,-10.6101350143969,0.0146,0.0146,0,0
+"style_direct_contrasts","USbig value_dominance",8.91512303166054,8.91512303166054,0.0315,0.0315,0,0
+"europe_weighting","small Value",-2.42220650928512,-2.42220650928512,0.0333,0.0333,0,0
+"europe_weighting","small Equal",0.0636456812048018,0.0636456812048018,0.9642,0.9642,0,0
+"europe_weighting","small VW_minus_EW",-2.48585219048993,-2.48585219048993,0.0612,0.0612,0,0
+"europe_weighting","big Value",-1.75682664576047,-1.75682664576047,0.365,0.365,0,0
+"europe_weighting","big Equal",-1.20070264131636,-1.20070264131636,0.602,0.602,0,0
+"europe_weighting","big VW_minus_EW",-0.556124004444113,-0.556124004444113,0.7902,0.7902,0,0
+"broader_groups_size","all broader_OP",5.77365241698913,5.77365241698913,0.1457,0.1457,0,0
+"broader_groups_size","USsmall broader_OP",2.8708406447453,2.8708406447453,0.3549,0.3549,0,0
+"broader_groups_size","USbig broader_OP",8.56384973346141,8.56384973346141,0.0484,0.0484,0,0
+"broader_groups_size","US_big_minus_small",9.47822641625343,9.47822641625343,0.0227,0.0227,0,0
+"same_grid_aggregate","same_BM_OP_grid_equal_OP_sleeves",4.45651823084062,4.45651823084062,0.1053,0.1053,0,0
+"same_signal_region_difference","US small",4.69478229733487,4.69478229733487,0.3573,0.3573,0,0
+"same_signal_region_difference","US big",12.679129605973,12.679129605973,0.0983,0.0983,0,0
+"same_signal_region_difference","ECB small",4.94454791053924,4.94454791053924,0.0249,0.0249,0,0
+"same_signal_region_difference","ECB big",7.43320377396495,7.43320377396495,0.3258,0.3258,0,0
+"europe_information_periods","S1_contrast aggregate_release_eligible",-2.57601140614119,-2.57601140614119,0.0298,0.0298,0,0
+"europe_information_periods","S1_contrast microdata_online_period",-3.40274121957267,-3.40274121957267,0.2894,0.2894,0,0
+"europe_information_periods","S2_contrast aggregate_release_eligible",-1.84104895242948,-1.84104895242948,0.3427,0.3427,0,0
+"europe_information_periods","S2_contrast microdata_online_period",-1.4696310695957,-1.4696310695957,0.6506,0.6506,0,0
+"timing_core","pre",-6.54641342372547,-6.54641342372547,0.0616,0.0616,0,0
+"timing_core","after63",8.55761642880177,8.55761642880177,0.2683,0.2683,0,0
+"timing_core","gap",7.66009133266799,7.66009133266799,0.1731,0.1731,0,0
+"timing_core","next_quarter",7.73314981452946,7.73314981452946,0.0553,0.0553,0,0
+"timing_core","month1",0.613232259495818,0.613232259495818,0.6871,0.6871,0,0
+"timing_core","month2",2.01681258697614,2.01681258697614,0.2661,0.2661,0,0
+"timing_core","month3",5.8033926303869,5.8033926303869,0.058,0.058,0,0
+"timing_sides","pre G",-2.93874081878702,-2.93874081878702,0.216,0.216,0,0
+"timing_sides","pre V",3.60767260493845,3.60767260493845,0.1241,0.1241,0,0
+"timing_sides","after63 G",2.11645357616243,2.11645357616243,0.4258,0.4258,0,0
+"timing_sides","after63 V",-6.44116285263934,-6.44116285263934,0.1294,0.1294,0,0
+"timing_sides","gap G",2.22651162296966,2.22651162296966,0.2176,0.2176,0,0
+"timing_sides","gap V",-5.43357970969833,-5.43357970969833,0.3019,0.3019,0,0
+"timing_sides","next_quarter G",2.48265212059727,2.48265212059727,0.2345,0.2345,0,0
+"timing_sides","next_quarter V",-5.25049769393219,-5.25049769393219,0.0543,0.0543,0,0
+"timing_sides","month1 G",0.659499122455257,0.659499122455257,0.5137,0.5137,0,0
+"timing_sides","month1 V",0.0462668629594392,0.0462668629594392,0.9749,0.9749,0,0
+"timing_sides","month2 G",-0.608574841185318,-0.608574841185318,0.3807,0.3807,0,0
+"timing_sides","month2 V",-2.62538742816146,-2.62538742816146,0.0945,0.0945,0,0
+"timing_sides","month3 G",2.6723894918066,2.6723894918066,0.1196,0.1196,0,0
+"timing_sides","month3 V",-3.1310031385803,-3.1310031385803,0.1211,0.1211,0,0
+"timing_comparisons","after63_minus_nextquarter",0.824466614272315,0.824466614272315,0.8332,0.8332,0,0
+"timing_comparisons","monthly_C_control_preC",7.87533801922753,7.87533801922753,0.059,0.059,0,0
+"subsequent_survey_update","next_revision_same_year_Q2_Q3",0.0137005905952815,0.0137005905952815,0.9749,0.9749,0,0
+"measurement_US","all_VW mu_edge full_density_pairs",7.75849386314485,7.75849386314485,0.0546,0.0546,0,0
+"measurement_US","all_VW mu_mid full_density_pairs",7.78802323321941,7.78802323321941,0.0541,0.0541,0,0
+"measurement_US","all_VW mu_wide full_density_pairs",7.8175021758145,7.8175021758145,0.0535,0.0535,0,0
+"measurement_US","all_VW mu_mid joint_point_density_pairs",7.68349122885752,7.68349122885752,0.0719,0.0719,0,0
+"measurement_US","all_VW point joint_point_density_pairs",7.99945765967565,7.99945765967565,0.0419,0.0419,0,0
+"measurement_EU","S1_contrast mu_mid joint_point_density_pairs",-2.55567949505647,-2.55567949505647,0.0278,0.0278,0,0
+"measurement_EU","S1_contrast point joint_point_density_pairs",-2.42220650928512,-2.42220650928512,0.0333,0.0333,0,0
+"measurement_EU","S2_contrast mu_mid joint_point_density_pairs",-1.88044561913744,-1.88044561913744,0.3345,0.3345,0,0
+"measurement_EU","S2_contrast point joint_point_density_pairs",-1.75682664576047,-1.75682664576047,0.365,0.365,0,0
+"bin_transition_sensitivity","exclude_US_bin_transition_rounds",8.52302658012869,8.52302658012869,0.1288,0.1288,0,0
+"predefined_period_change","post2008_slope_change",-0.655455870108042,-0.655455870108042,0.9158,0.9158,0,0

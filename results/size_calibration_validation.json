@@ -1,0 +1,8 @@
+{
+  "M": 1000,
+  "bootstrap_B": 1999,
+  "production_bootstrap_B": 9999,
+  "method_matches": true,
+  "observed_p_for_common_B": 0.061,
+  "interpretation": "Fixed-design sensitivity exercise under specified Gaussian error laws, not a proof of validity for unknown errors; inner draws fewer than production."
+}

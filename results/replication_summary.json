@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "models": 251,
+  "largest_coefficient_difference": 0,
+  "largest_marginal_p_difference": 0,
+  "main_adjusted_p": 0.1591,
+  "manuscript_numerical_update_required": false
+}

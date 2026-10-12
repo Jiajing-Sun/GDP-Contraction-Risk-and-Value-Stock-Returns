@@ -1,0 +1,2 @@
+"family","label","outcome","focal","n","start","end","coef","se_hac","ci95_low","ci95_high","ci_components","ci95_set","p_dwb","p_hac","r2","max_leverage","lags","bw","controls","p_rw_family"
+"subsequent_survey_update","next_revision_same_year_Q2_Q3","next_same_target_x","matched_x",68,"1992Q2","2025Q3",0.0137005905952815,0.310317171745279,-0.799138202205622,1.01994834946064,1,"[-0.799138, 1.019948]",0.9749,0.964784612712317,0.0498666982476353,0.492648364599495,4,4,"matched_mu",0.9749

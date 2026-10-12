@@ -1,0 +1,14 @@
+"check","maximum_difference","tolerance","passed"
+"251 model coefficients",0,1e-08,TRUE
+"251 marginal bootstrap p-values",0,1e-08,TRUE
+"251 confidence interval lower limits",0,1e-05,TRUE
+"251 confidence interval upper limits",0,1e-05,TRUE
+"Country primary8",1.02140518265514e-14,1e-08,TRUE
+"Country country32",2.04281036531029e-14,1e-08,TRUE
+"Country weight_sensitivity16",1.02140518265514e-14,1e-08,TRUE
+"Country french_attribution4",9.76996261670138e-15,1e-08,TRUE
+"Country heterogeneity_joint2",0,1e-08,TRUE
+"Country coverage15_8",1.02140518265514e-14,1e-08,TRUE
+"Country leave_country_out",9.99200722162641e-15,1e-08,TRUE
+"Monte Carlo calibration",0,1e-08,TRUE
+"Primary family adjusted p-value",0,1e-08,TRUE
