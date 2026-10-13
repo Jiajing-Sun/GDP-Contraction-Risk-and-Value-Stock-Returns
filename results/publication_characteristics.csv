@@ -1,0 +1,37 @@
+"group","leg","metric","median"
+"all","low_growth","Number of Firms in Portfolios",327
+"all","low_value","Number of Firms in Portfolios",560.5
+"all","high_growth","Number of Firms in Portfolios",269
+"all","high_value","Number of Firms in Portfolios",22
+"all","low_growth","Value Weight Average of BE/ME Calculated",0.1505
+"all","low_value","Value Weight Average of BE/ME Calculated",1.26655
+"all","high_growth","Value Weight Average of BE/ME Calculated",0.14235
+"all","high_value","Value Weight Average of BE/ME Calculated",1.115
+"all","low_growth","Value Weight Average of OP Calculated",-0.4353
+"all","low_value","Value Weight Average of OP Calculated",0.06295
+"all","high_growth","Value Weight Average of OP Calculated",0.9218
+"all","high_value","Value Weight Average of OP Calculated",0.5473
+"US_1","low_growth","Number of Firms in Portfolios",446
+"US_1","low_value","Number of Firms in Portfolios",411.5
+"US_1","high_growth","Number of Firms in Portfolios",272.5
+"US_1","high_value","Number of Firms in Portfolios",44.5
+"US_2","low_growth","Number of Firms in Portfolios",47
+"US_2","low_value","Number of Firms in Portfolios",108
+"US_2","high_growth","Number of Firms in Portfolios",135.5
+"US_2","high_value","Number of Firms in Portfolios",7
+"US_1","low_growth","Value Weight Average of BE/ME Calculated",0.20085
+"US_1","low_value","Value Weight Average of BE/ME Calculated",1.5611
+"US_1","high_growth","Value Weight Average of BE/ME Calculated",0.2207
+"US_1","high_value","Value Weight Average of BE/ME Calculated",1.31485
+"US_2","low_growth","Value Weight Average of BE/ME Calculated",0.1501
+"US_2","low_value","Value Weight Average of BE/ME Calculated",0.90965
+"US_2","high_growth","Value Weight Average of BE/ME Calculated",0.1347
+"US_2","high_value","Value Weight Average of BE/ME Calculated",0.76545
+"US_1","low_growth","Value Weight Average of OP Calculated",-0.7655
+"US_1","low_value","Value Weight Average of OP Calculated",-0.00415
+"US_1","high_growth","Value Weight Average of OP Calculated",1.01105
+"US_1","high_value","Value Weight Average of OP Calculated",0.4609
+"US_2","low_growth","Value Weight Average of OP Calculated",-0.04085
+"US_2","low_value","Value Weight Average of OP Calculated",0.11985
+"US_2","high_growth","Value Weight Average of OP Calculated",0.86215
+"US_2","high_value","Value Weight Average of OP Calculated",0.5401

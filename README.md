@@ -29,6 +29,7 @@ Rscript 05_country_coverage.R
 Rscript 06_figures.R
 Rscript 07_inference_calibration.R
 Rscript 08_validate.R
+Rscript 09_publication_numbers.R
 ```
 
 ## Files and directories
@@ -45,6 +46,7 @@ The layout has one directory level. R scripts and documentation are at the root.
 | `04_country_estimates.R`, `05_country_coverage.R` | Country comparisons, alternative weights, leave-one-country-out estimates and coverage sensitivity. |
 | `06_figures.R` | Generate all three English manuscript figures in R. Statistical figures read the recomputed estimates rather than manually entered coefficients. |
 | `07_inference_calibration.R` | Reproduce the inference calibration experiment. |
+| `09_publication_numbers.R` | Compute publication descriptives, examples, constituent labels, influence quantities and four-decimal display copies. |
 | `08_validate.R` | Compare reconstructed data and estimates with the manuscript-vintage references. |
 | `inference.R`, `survey_helpers.R`, `portfolio_helpers.R` | Shared estimation, survey-bin and portfolio functions. |
 | `data/` | Research panels, numeric model designs, source manifest, and attributed European Central Bank and Global Factor Data source archives. |
@@ -74,10 +76,10 @@ The 251 specifications include repeated baselines and exploratory robustness che
 
 The R consolidation preserves the reported results:
 
-- Core four-portfolio slope: approximately 7.788 return percentage points per 10 probability percentage points.
+- Core four-portfolio slope: 7.7880 return percentage points per 10 probability percentage points.
 - Unadjusted dependent-wild-bootstrap probability: 0.0541.
 - Primary-family adjusted probability: 0.1591.
-- One-standard-deviation signal change: approximately 4.24 return percentage points.
+- One-standard-deviation signal change: 4.2421 return percentage points.
 
 `results/replication_summary.json` and `results/replication_checks.csv` contain the comparisons. No numerical manuscript revision was required by the R conversion. These checks establish computational agreement, not causal identification or a unique economic mechanism.
 
@@ -88,3 +90,9 @@ The European Central Bank is the source of its survey records; transformations h
 Global Factor Data are provided by Jensen, Kelly and Pedersen under [Creative Commons Attribution–NonCommercial 4.0](https://creativecommons.org/licenses/by-nc/4.0/), as stated on [their website](https://jkpfactors.com/). Included country archives are unmodified; quarterly research panels are transformations described by the R scripts. Cite Jensen, T. I., Kelly, B., and Pedersen, L. H. (2023), “Is There a Replication Crisis in Finance?”, *The Journal of Finance*, 78(5), 2465–2518.
 
 Please also acknowledge the [Philadelphia Fed survey](https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters) and [Kenneth R. French Data Library](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html). The repository does not grant additional rights to third-party data or distribute licensed individual-stock CRSP, Compustat or Bloomberg records.
+
+## October 14, 2026 verification
+
+The complete R pipeline was rerun using all 118 saved source archives, with unchanged seeds and sample definitions. All 251 model comparisons, country comparisons and calibration checks passed. All three figures were regenerated in R. The primary slope is 7.7880, its unadjusted bootstrap p-value is 0.0541, and its primary-family adjusted p-value is 0.1591. The signal standard deviation is 5.4470 probability percentage points; the corresponding return effect is 4.2421 percentage points.
+
+Full-precision numeric files remain the inputs to analysis and figures. Files ending in `_four_decimals.csv` are display copies. Four decimal places describe reporting precision, not greater statistical precision. Manuscript statistical tables use four decimals; calendar dates, observation counts and portfolio classification thresholds retain their natural units.
